@@ -20,7 +20,7 @@ public class Resta {
 	}
 
 	public void setB(int b){
-		this.a=a;
+		this.b=b;
 	}
 	
 	//Método que permite restar dos números enteros
